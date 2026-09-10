@@ -4,6 +4,7 @@ Product-minded software engineer, six years in the React and Node.js ecosystem.
 
 
 ### Worth a look
+I've started a cozy blog where I share my thought and things I find interesting about frontend and web development. 
 [frontendcozycorner.com](https:frontendcozycorner.com)
 
 
