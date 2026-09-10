@@ -1,8 +1,13 @@
 ## Hi, I'm Liza 👋
 
-I'm a web developer who likes building apps and learning new things.
+Product-minded software engineer, six years in the React and Node.js ecosystem.
 
-### Tech I use
+
+### Worth a look
+[frontendcozycorner.com](https:frontendcozycorner.com)
+
+
+### Tech I use day to day
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-20232A?logo=react&logoColor=61DAFB)
