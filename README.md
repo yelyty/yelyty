@@ -18,3 +18,7 @@ I've started a cozy blog where I share my thoughts and things I find interesting
 ![Astro](https://img.shields.io/badge/-Astro-BC52EE?logo=astro&logoColor=white)
 ![React Router](https://img.shields.io/badge/-React%20Router-CA4245?logo=reactrouter&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?logo=tailwindcss&logoColor=white)
+
+
+![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?logo=supabase&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white)
